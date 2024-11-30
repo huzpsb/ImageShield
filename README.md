@@ -3,6 +3,11 @@ Digital Illustration Copyright Protection Tool for Watermarking and Unauthorized
 
 [Preview Version]
 
+SCREENSHOT:  
+<img width="417" alt="image" src="https://github.com/user-attachments/assets/05b86237-acf0-4997-bd42-bfdcb153594f">  
+[Discord](discord.gg/FBfXQtMS7X)
+
+
 IMPORTANT NOTICES:
 1. This software is designed to protect digital illustrations from unauthorized AI training usage
 2. You must own the copyright to any images you process with this tool
