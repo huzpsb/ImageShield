@@ -22,7 +22,7 @@ USAGE REQUIREMENTS:
 SYSTEM REQUIREMENTS:
 - CPU processing only (GPU version requires separate compilation)
 - Approximately 1GB memory usage per 1920x1080 image
-- Processing time: ~1 minute per 1920x1080 image on i7 processor
+- Processing time: ~1 minute per 1920x1080 image on i7 processor (20x Faster than most tools alike!)
 
 FEATURES:
 - MeshTwist: Prevents AI feature extraction, primarily affects LoRA training
